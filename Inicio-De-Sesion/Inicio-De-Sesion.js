@@ -1,0 +1,1 @@
+let DNI = document.getElementById("CajaDeDNI").value.trim
